@@ -1,7 +1,7 @@
 # F446RE_PIN_CONFIG
 ## 02/06/
 
-[a link]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/carmamo/F446RE_PIN_CONFIG/blob/master/F446RE_PIN_CONFIG.pdf))
+[PDF with Images](F446RE_PIN_CONFIG.pdf)
 
 # 1. Description
 
