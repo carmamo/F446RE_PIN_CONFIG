@@ -1,13 +1,6 @@
 # F446RE_PIN_CONFIG
 ## 02/06/
 
-```
-Configuration Report
-```
-
-```
-Configuration Report
-```
 # 1. Description
 
 1.1. Project
