@@ -358,11 +358,11 @@ static void MX_GPIO_Init(void)
   __HAL_RCC_GPIOC_CLK_ENABLE();
   __HAL_RCC_GPIOD_CLK_ENABLE();
 
-  /*Configure GPIO pin : SDIO_BSD_Input_Pin */
-  GPIO_InitStruct.Pin = SDIO_BSD_Input_Pin;
+  /*Configure GPIO pin : SDIO_BSP_Input_Pin */
+  GPIO_InitStruct.Pin = SDIO_BSP_Input_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_INPUT;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
-  HAL_GPIO_Init(SDIO_BSD_Input_GPIO_Port, &GPIO_InitStruct);
+  HAL_GPIO_Init(SDIO_BSP_Input_GPIO_Port, &GPIO_InitStruct);
 
 }
 

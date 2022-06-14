@@ -57,8 +57,8 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
-#define SDIO_BSD_Input_Pin GPIO_PIN_8
-#define SDIO_BSD_Input_GPIO_Port GPIOA
+#define SDIO_BSP_Input_Pin GPIO_PIN_8
+#define SDIO_BSP_Input_GPIO_Port GPIOA
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
